@@ -1,5 +1,5 @@
-# 004: BIRTHDAY
+# 004: REPUBLIC DAY 75TH 
 
-A Pen created on CodePen.io. Original URL: [https://github.com/CodaWallah](https://github.com/CodaWallah).
+A Style created on Vs code in the Direction of Anash. Original URL: [https://github.com/CodaWallah](https://github.com/CodaWallah).
 
-Functional animated calculator with script heavily modified from ZERONICA.
+Functional animated REpublic wishes with script heavily modified from ZERONICA.
