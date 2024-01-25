@@ -1,0 +1,79 @@
+body {
+    background: linear-gradient(#ff8f00, #ffebee, #388e3c);
+  }
+  
+  .MyImage {
+    height: 200px;
+    width: 800px;
+    float: top-right corner;
+  }
+  
+  .MyIMG {
+    height: 250px;
+    width: 360px;
+    padding: 2px;
+  }
+  
+  .MyImg {
+    height: 250px;
+    width: 360px;
+    padding: 2px;
+  }
+  
+  .MYIMAGE {
+    height: 250px;
+    width: 360px;
+    padding: 2px;
+  }
+  
+  .MYimg {
+    height: 250px;
+    width: 360px;
+    padding: 2px;
+  }
+  
+  .OL {
+    font-size: 19px;
+    font-family: "Mochiy Pop P One", sans-serif;
+  }
+  
+  .UL {
+    font-size: 23px;
+    font-family: "Lobster", cursive;
+  }
+  
+  .MYImG {
+    height: 200px;
+    width: 800px;
+  }
+  
+  P {
+    font-size: 19px;
+  }
+  
+  .MYP {
+    color: #bf360c;
+  }
+  
+  .MYp {
+    color: #1a237e;
+  }
+  
+  .MyP {
+    color: #1b5e20;
+  }
+  
+  .MYF {
+    color: white;
+  }
+  
+  .MyGif {
+    height: 200px;
+    float: top-left corner;
+  }
+  
+  .MYJPG {
+    height: 200px;
+    width: 250px;
+  }
+  
